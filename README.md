@@ -65,4 +65,5 @@ The model demonstrated excellent performance with minimal overfitting:
 Contributions, issues, and feature requests are welcome!
 
 ---
-*Created with ❤️ by [samir mohamed]*
+## 👤 Author
+*Created by [samir mohamed]*
