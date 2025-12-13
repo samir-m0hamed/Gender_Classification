@@ -1,10 +1,5 @@
 # 👫 Gender Classification Using SVM
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
-![Pandas](https://img.shields.io/badge/Library-Pandas-150458)
-![Plotly](https://img.shields.io/badge/Visualization-Plotly-green)
-
 ## 📌 Overview
 This project implements a **Support Vector Machine (SVM)** classifier to predict gender (Male/Female) based on facial physical characteristics. The model utilizes the **RBF (Radial Basis Function) Kernel** to handle non-linear relationships in the data, achieving high accuracy on both training and testing datasets.
 
@@ -50,7 +45,7 @@ The model demonstrated excellent performance with minimal overfitting:
 ## 🚀 How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/Gender-Classification-SVM.git](https://github.com/YourUsername/Gender-Classification-SVM.git)
+    git clone [https://github.com/samir-m0hamed/Gender-Classification-SVM.git](https://github.com/samir-m0hamed/Gender-Classification-SVM.git)
     ```
 2.  Install dependencies:
     ```bash
@@ -66,4 +61,4 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 ## 👤 Author
-*Created by [samir mohamed]*
+*samir mohamed*
